@@ -44,6 +44,7 @@ This solution enhances **home automation** with intuitive, touch-free interactio
 - A **proximity reading** above 150 switches control between the fan and bulb.
 - A **gesture** with proximity between 30-100 toggles ON/OFF the selected device.
 - Relay modules control actual switching of appliances safely.
+- Aurdino UNO controles the whole process
 
 ## Requirements
 - Arduino IDE
