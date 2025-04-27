@@ -50,4 +50,7 @@ This solution enhances **home automation** with intuitive, touch-free interactio
 - Arduino IDE
 - SparkFun APDS9960 Library (`Sketch` > `Include Library` > `Manage Libraries` > Search: *SparkFun APDS9960*)
 
+## Output Screen
+<img src=“[https://github.com/KrisKasprzak/ILI9341_t3_controls](https://github.com/Venkatbandi002/Gesture-Controlled-Switches-for-Smart-Home-Automation-Using-Optical-Sensors/blob/main/Output_Screen.png)”>
+
 ---
